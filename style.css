@@ -1,0 +1,30 @@
+.ui.topmenu.menu {
+  background-color: black;
+  padding: 3px;
+}
+
+.mytext {
+  color: white;
+}
+
+.ui.middlemenu.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.fontsizer {
+  font-size: 14px;
+}
+
+.ui.inputbar.input {
+  background-color: #ccc;
+
+}
+
+.fontsizerking {
+  font-size: 17px;
+}
+
+.images {
+  width: 1100px;
+}
